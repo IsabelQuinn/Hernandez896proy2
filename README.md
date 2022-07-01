@@ -1,7 +1,6 @@
 # Hernandez896proy2
  rompecabezas
-# Hernandez896proy2
- rompecabezas
+
 import javax.swing.*;
 import javax.swing.Timer;
 import java.awt.event.*;
